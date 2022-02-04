@@ -1,0 +1,11 @@
+{
+  "generator-danger-plugin": {
+    "promptValues": {
+      "authorName": "Dario Blanco Iturriaga",
+      "authorEmail": "dblancoit@gmail.com",
+      "githubUsername": "darioblanco",
+      "useYarn": true,
+      "useTypeScript": true
+    }
+  }
+}
