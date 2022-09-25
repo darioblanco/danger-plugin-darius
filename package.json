@@ -29,7 +29,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=14"
+    "node": ">=v16.17.1"
   },
   "dependencies": {
     "@commitlint/config-conventional": "^16.0.0",
